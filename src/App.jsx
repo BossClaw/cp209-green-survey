@@ -98,10 +98,10 @@ function App() {
 						onSubmit={handleSubmit}
 						className="space-y-8"
 					>
-						{/* Section 1: Current Computer Usage */}
+						{/* Section 1 - Current Computer Usage */}
 						<Card>
 							<CardHeader>
-								<CardTitle className="text-xl text-gray-900">1: Your Current Computer Usage</CardTitle>
+								<CardTitle className="text-xl text-gray-900">Current Computer Usage</CardTitle>
 							</CardHeader>
 							<CardContent className="space-y-6">
 								<div>
@@ -204,10 +204,10 @@ function App() {
 							</CardContent>
 						</Card>
 
-						{/* Section 2: System Performance and Reliability */}
+						{/* Section 2 - System Performance and Reliability */}
 						<Card>
 							<CardHeader>
-								<CardTitle className="text-xl text-gray-900">2: System Performance and Reliability</CardTitle>
+								<CardTitle className="text-xl text-gray-900">System Performance and Reliability</CardTitle>
 							</CardHeader>
 							<CardContent className="space-y-6">
 								<div>
@@ -267,10 +267,10 @@ function App() {
 							</CardContent>
 						</Card>
 
-						{/* Section 3: Support and Maintenance */}
+						{/* Section 3 - Support and Maintenance */}
 						<Card>
 							<CardHeader>
-								<CardTitle className="text-xl text-gray-900">3 - Support and Maintenance</CardTitle>
+								<CardTitle className="text-xl text-gray-900">Support and Maintenance</CardTitle>
 							</CardHeader>
 							<CardContent className="space-y-6">
 								<div>
@@ -333,7 +333,7 @@ function App() {
 						{/* Section 4 - Future Needs and Suggestions */}
 						<Card>
 							<CardHeader>
-								<CardTitle className="text-xl text-gray-900">4 - Future Needs and Suggestions</CardTitle>
+								<CardTitle className="text-xl text-gray-900">Future Needs and Suggestions</CardTitle>
 							</CardHeader>
 							<CardContent className="space-y-6">
 								<div>
